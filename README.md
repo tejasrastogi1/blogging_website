@@ -1,4 +1,4 @@
-# Inkwell Insights : A Full Stack Blogging Website
+# Full Stack Blogging Website
 
 ## Overview
 
